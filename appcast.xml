@@ -4,9 +4,9 @@
         <title>SilentUpdate</title>
         <item>
             <title>1.2</title>
-            <pubDate>Fri, 13 Nov 2020 01:54:30 +0500</pubDate>
+            <pubDate>Fri, 13 Nov 2020 02:29:06 +0500</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ibrahim-baig/updater/raw/main/SilentUpdate.zip" sparkle:version="2" sparkle:shortVersionString="1.2" length="1782607" type="application/octet-stream"/>
+            <enclosure url="https://github.com/ibrahim-baig/updater/raw/main/SilentUpdate.zip" sparkle:version="2" sparkle:shortVersionString="1.2" length="1781837" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
